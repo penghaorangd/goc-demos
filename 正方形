@@ -1,0 +1,11 @@
+int main(){
+pen.fd(100);    
+pen.rt(90); 
+pen.fd(100);    
+pen.rt(90);
+pen.fd(100);    
+pen.rt(90);
+ pen.fd(100);    
+pen.rt(90);   
+    retuarn 0;
+}
